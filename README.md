@@ -1,4 +1,5 @@
 # jayme-comic
+Simple comic to show my sons classmates what we did during quarantine
 
 ## Project setup
 ```
